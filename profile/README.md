@@ -4,7 +4,7 @@
 </p>
 
 
-<p align="center">HulaSpark is a pioneering open source organization dedicated to providing a flexible, cutting-edge, 和 creative platform for developers. Here, we believe that every idea ignites a spark of change, 和 every piece of code unlocks infinite possibilities.</p>
+<p align="center">HulaSpark is a pioneering open source organization dedicated to providing a flexible, cutting-edge, and creative platform for developers. Here, we believe that every idea ignites a spark of change, and every piece of code unlocks infinite possibilities.</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-blue?logo=Typescript&style=flat&logoColor=fff">
